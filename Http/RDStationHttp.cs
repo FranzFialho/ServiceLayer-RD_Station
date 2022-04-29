@@ -19,7 +19,7 @@ namespace ServiceLayer.Http
                 //Criar um JSON para enviar a requisição
                 var dados = new RDStation
                 {
-                    token = "MY_TOKEN",
+                    token = "MY_TOKENN",
                     organization = new Organization
                     {
                         name = cardName,
